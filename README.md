@@ -1,0 +1,1 @@
+activate envirenment on uv  :  .venv\Scripts\activate
